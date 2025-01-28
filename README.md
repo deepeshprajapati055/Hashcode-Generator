@@ -20,12 +20,18 @@ A modern, user-friendly web application for generating hash codes using various 
 ## Getting Started
 
 1. Clone the repository
-2. Navigate to the project directory
-3. Run the application:
+   ```bash
+   git clone https://github.com/deepeshprajapati055/Hashcode-Generator.git
+   ```
+3. Navigate to the project directory
+   ```bash
+   cd Hashcode
+   ```
+5. Run the application:
    ```bash
    mvn spring-boot:run
    ```
-4. Open your browser and visit: `http://localhost:8080`
+6. Open your browser and visit: `http://localhost:8080`
 
 ## Technology Stack
 
