@@ -57,3 +57,6 @@ mvn spring-boot:run
 ```
 
 The application will be available at `http://localhost:8080`.
+![Image](https://github.com/user-attachments/assets/01d8abee-8a63-4bbe-a1c0-3c34bb802faf)
+##
+![Image](https://github.com/user-attachments/assets/9f6ac985-9bdf-4c52-855c-aead5ce89dea)
